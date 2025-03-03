@@ -1,1 +1,1 @@
-# AI-Photograph
+# AI-Photography
